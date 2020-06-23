@@ -33,5 +33,5 @@ color: aquamarine;
 .footer--copyright {
 font-size: 16px;
 color: grey;
-align: right;
+text-align: right;
 }
