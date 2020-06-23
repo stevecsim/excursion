@@ -23,13 +23,15 @@ color: white;
 }
 
 
-
-
-
-
 /*LINKS*/
 .link--cta {
 font-size: 16px;
 color: aquamarine;
 }
 
+/*FOOTER */
+.footer--copyright {
+font-size: 16px;
+color: grey;
+align: right;
+}
